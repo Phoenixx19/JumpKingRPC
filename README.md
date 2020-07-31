@@ -1,21 +1,54 @@
-# Jump King RPC
+# Jump King RPC – [Latest Release](https://github.com/Phoenixx19/JumpKingRPC/releases/latest)
 
-Jump King RPC, or in short JKRPC, is a Rich Presence Client for Discord that tracks data from your current Jump King session.
+![JumpKingRPC](https://img.shields.io/badge/Jump%20King-Discord%20RPC-red)
+![GitHub Release Date](https://img.shields.io/github/release-date/Phoenixx19/JumpKingRPC)
+![GitHub All Releases](https://img.shields.io/github/downloads/Phoenixx19/JumpKingRPC/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)
 
-## Dependencies:
-All you need as of this time is:
-- .NET Framework 4.5+
-- Jump King (duh)
-------------------------------------------------------------------
-## Setup & Instructions:
-1.  Start the exe. BEFORE you launch Jump King.
-2.  After launching the exe, launch Jump King
-3.  The status on the window should change from "OFFLINE" to "OK!"
-4.  Voila! All of the info should appear on your discord profile.
-------------------------------------------------------------------
-If you have any questions or bugs, contact us here:
-Phoenixx19: https://github.com/Phoenixx19
-Goose: https://github.com/Babayagabyte or Goose#9429 on Discord
-DevilSquirrel: https://github.com/ShootMe
+Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. <br>
+JKRPC shows the in-game live data to your Discord status using Discord's RPC. Such as:
+- Location of the player
+- Story mode chosen
+- Jumps, falls, number of sessions, number of attempts
+- Time elapsed from the start of the attempt
 
-Have fun jumping!
+![Status](https://github.com/Phoenixx19/JumpKingRPC/blob/master/Customizable/status.gif)
+![Program](https://github.com/Phoenixx19/JumpKingRPC/blob/master/Customizable/program.gif)
+
+## Table of contents
+1. [Dependencies]()
+2. [Setup & Instructions]()
+3. [About]()
+4. [License]()
+
+## Dependencies
+In order to use the program it is necessary to have installed:
+- Jump King
+- .NET Framework 4.5 (or newer)
+
+## Setup & Instructions
+1. Download the latest release and unzip the folder.
+2. Start `JumpKingRPC.exe`.
+3. The status on the window should change from "**OFFLINE**" to "**OK!**" when the game has been opened.
+4. *(Optional) Change your preset to what you'd prefer.*
+5. Voila! All of the info should appear on your discord profile.
+
+## About
+This program is fully written in **C#** using Visual Studio.
+<br>It uses [**discord-rpc-csharp**](https://github.com/Lachee/discord-rpc-csharp) to access and use the Discord Rich Presence client; and uses [**LiveSplit.JumpKing**](https://github.com/ShootMe/LiveSplit.JumpKing) to access specific memory slots used by the game.
+
+#### The people behind the program. 😎
+
+|Name|Occupation|
+|:---:|:---|
+|[**DevilSquirrel**](https://github.com/ShootMe) | Memory engineer and back-end developer |
+|[**Goose**](https://github.com/Babayagabyte) | Front-end helper |
+|[**Phoenixx19**](https://github.com/Phoenixx19) | Front-end developer and application creator |
+
+If you have any questions or bugs, contact us with the links above or create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose).
+
+## License
+
+JumpKingRPC is not affiliated with Nexile AB or Discord Incorporate. All brands and trademarks belong to their respective owners. JumpKingRPC uses the MIT License that allows commercial and private use with modifications and redistributions. There are no warranties or liabilities.
+
+<br>*Have fun jumping!* :crown:
