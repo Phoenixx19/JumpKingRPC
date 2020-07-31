@@ -50,10 +50,8 @@ namespace JumpKingRPC
         string simage;
         string stext;
 
-        //form1_load is useless so far since app can count as MainApp
         private void Form1_Load(object sender, EventArgs e)
         {
-            // stuff will go here eventually ¯\_(ツ)_/¯
             PrivateFontCollection pfc = new PrivateFontCollection();
             pfc.AddFontFile(Environment.CurrentDirectory+"\\Images\\ttf_entercommand_bold.ttf");
             DescTitle.Font = new Font(pfc.Families[0], 16, FontStyle.Bold);
