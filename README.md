@@ -16,10 +16,10 @@ JKRPC shows the in-game live data to your Discord status using Discord's RPC. Su
 ![Program](https://github.com/Phoenixx19/JumpKingRPC/blob/master/Customizable/program.gif)
 
 ## Table of contents
-1. [Dependencies]()
-2. [Setup & Instructions]()
-3. [About]()
-4. [License]()
+1. [Dependencies](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#dependencies)
+2. [Setup & Instructions](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#setup--instructions)
+3. [About](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#about)
+4. [License](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#license)
 
 ## Dependencies
 In order to use the program it is necessary to have installed:
