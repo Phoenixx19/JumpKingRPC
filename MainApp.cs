@@ -91,7 +91,7 @@ namespace JumpKingRPC
 
         private void toolStripAbout_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://github.com/");
+            System.Diagnostics.Process.Start("https://github.com/Phoenixx19/JumpKingRPC");
         }
 
         private void toolStripShow_Click(object sender, EventArgs e)
@@ -713,7 +713,7 @@ namespace JumpKingRPC
 
         private void link_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://github.com/");
+            System.Diagnostics.Process.Start("https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#about");
         }
 
         private void comboBox1_SelectionChangeCommitted(object sender, EventArgs e)
