@@ -20,6 +20,7 @@ using DiscordRPC.Logging;
 using System.Security.Cryptography;
 using System.ComponentModel.DataAnnotations;
 using System.Drawing.Text;
+using System.Configuration;
 
 namespace JumpKingRPC
 {
@@ -75,6 +76,14 @@ namespace JumpKingRPC
         {
             Deinitialize();
             memory.Dispose();
+            System.Configuration.Configuration config = ConfigurationManager.OpenExeConfiguration(Application.ExecutablePath);
+            config.AppSettings.Settings.Remove("preset");
+            config.AppSettings.Settings.Remove("boots");
+            config.AppSettings.Settings.Remove("ring");
+            config.AppSettings.Settings.Add("preset", Convert.ToString(comboBox1.SelectedIndex));
+            config.AppSettings.Settings.Add("boots", Convert.ToString(checkGiantBoots.Checked));
+            config.AppSettings.Settings.Add("ring", Convert.ToString(checkSnakeRing.Checked));
+            config.Save(ConfigurationSaveMode.Modified);
         }
 
         private void notifyIcon_MouseDoubleClick(object sender, System.Windows.Forms.MouseEventArgs e)
@@ -104,7 +113,9 @@ namespace JumpKingRPC
         public MainApp()
         {
             InitializeComponent();
-            comboBox1.SelectedIndex = 0;
+            comboBox1.SelectedIndex = Convert.ToInt32(ConfigurationManager.AppSettings.Get("preset"));
+            checkGiantBoots.Checked = Convert.ToBoolean(ConfigurationManager.AppSettings.Get("boots"));
+            checkSnakeRing.Checked = Convert.ToBoolean(ConfigurationManager.AppSettings.Get("ring"));
             Text = "Jump King RPC v" + Assembly.GetExecutingAssembly().GetName().Version.ToString(3);
             toolStripInfo.Text = Text;
 
