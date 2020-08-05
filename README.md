@@ -2,8 +2,8 @@
 
 ![JumpKingRPC](https://img.shields.io/badge/Jump%20King-Discord%20RPC-red)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Phoenixx19/JumpKingRPC)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Phoenixx19/JumpKingRPC/total)]
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)]
+![GitHub All Releases](https://img.shields.io/github/downloads/Phoenixx19/JumpKingRPC/total)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)
 
 Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. <br>
 JKRPC shows the in-game live data to your Discord status using Discord's RPC. Such as:
