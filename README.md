@@ -45,7 +45,8 @@ This program is fully written in **C#** using Visual Studio.
 |[**Goose**](https://github.com/Babayagabyte) | Front-end helper |
 |[**Phoenixx19**](https://github.com/Phoenixx19) | Front-end developer and application creator |
 
-If you have any questions or bugs, contact us with the links above or create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose).
+## Issues
+If you have any questions or you found a bug you'd like to report, contact us with the links above or create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose).
 
 ## License
 
