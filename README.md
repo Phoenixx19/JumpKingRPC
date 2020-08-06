@@ -27,7 +27,7 @@ In order to use the program it is necessary to have installed:
 - .NET Framework 4.5 (or newer)
 
 ## Setup & Instructions
-1. Download the latest release and unzip the folder.
+1. Download the latest release and unzip the .ZIP file. **(All the files and folders are needed)**
 2. Start `JumpKingRPC.exe`.
 3. The status on the window should change from "**OFFLINE**" to "**OK!**" when the game has been opened.
 4. *(Optional) Change your preset to what you'd prefer.*
