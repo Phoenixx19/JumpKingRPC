@@ -19,7 +19,8 @@ JKRPC shows the in-game live data to your Discord status using Discord's RPC. Su
 1. [Dependencies](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#dependencies)
 2. [Setup & Instructions](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#setup--instructions)
 3. [About](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#about)
-4. [License](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#license)
+4. [Issues and Bugs](https://github.com/Phoenixx19/JumpKingRPC#issues)
+5. [License](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#license)
 
 ## Dependencies
 In order to use the program it is necessary to have installed:
