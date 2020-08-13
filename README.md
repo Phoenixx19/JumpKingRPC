@@ -6,7 +6,7 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)
 
 **WARNING:** `This repository is getting an update soon. The RPC will move from being a Windows Form App using .NET Framework to a Class Library.
-This is work in progress so it could take a while, features of the application could change but we're going to try to be as close as we can with what we've released from the release.`
+This is work in progress so it could take a while; the installation, the usage and the features of the application could change but we're going to try to be as close as we can with what we've released from the release.`
 
 ---
 
