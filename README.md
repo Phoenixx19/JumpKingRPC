@@ -6,11 +6,6 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)
 ![File](https://img.shields.io/badge/file-.dll-blue)
 
-**WARNING:** The newest version (v2.0.0) does not have a release yet. We're working on a installer to avoid the piracy of the game.
-If you have some knowledge, you can mod Jump King yourself using tools like dnSpy.
-
----
-
 Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. <br>
 JKRPC shows the in-game live data on your Discord status using Discord's Rich Presence. JKRPC can use:
 - Location of the player
@@ -32,7 +27,9 @@ In order to use the program it is necessary to have installed and working:
 - Jump King
 
 ## Setup & Instructions
-Work in progress.
+1. Download the [**latest**](https://github.com/Phoenixx19/JumpKingRPC/releases/latest) release.
+2. Install the mod using the installer.
+3. Profit.
 
 ## About
 This mod is fully written in **C#**.
