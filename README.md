@@ -6,8 +6,8 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)
 ![File](https://img.shields.io/badge/file-.dll-blue)
 
-**WARNING:** This repository is getting an update soon. The RPC source code has been moved from `master` to `master/Old RPC`.
-This is a work in progress so it could take a while; the installation, the usage and the features of the application could change but we're going to try to be as close as we can with what we've released from the release.
+**WARNING:** The newest version (v2.0.0) does not have a release yet. We're working on a installer to avoid the piracy of the game.
+If you have some knowledge, you can mod Jump King yourself using tools like dnSpy.
 
 ---
 
@@ -35,15 +35,16 @@ In order to use the program it is necessary to have installed and working:
 Work in progress.
 
 ## About
-This program is fully written in **C#**.
+This mod is fully written in **C#**.
 <br>Using the [**discord-rpc-csharp**](https://github.com/Lachee/discord-rpc-csharp) to access and use the Discord Rich Presence client.
+This mod is based off the JumpKingTAS made by DevilSquirrel.
 
 #### The people behind the program. 😎
 
 |Name|Occupation|
 |:---:|:---|
 |[**Goose**](https://github.com/Babayagabyte) | Front-end helper |
-|[**Phoenixx19**](https://github.com/Phoenixx19) | Front-end developer and application creator |
+|[**Phoenixx19**](https://github.com/Phoenixx19) | Front-end developer and mod creator |
 
 ## Issues
 If you have any questions or you found a bug you'd like to report, contact us with the links above or create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose). Older versions (such as **v1.1.0** and **v1.0.0** won't get any future fixes).
