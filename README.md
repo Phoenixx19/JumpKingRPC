@@ -31,6 +31,10 @@ In order to use the program it is necessary to have installed and working:
 2. Install the mod using the installer.
 3. Profit.
 
+To uninstall you can use:
+- The same installer you used to install
+- Remove the program from the Control Panel and the old Jump King executable file will be back
+
 ## About
 This mod is fully written in **C#**.
 <br>Using the [**discord-rpc-csharp**](https://github.com/Lachee/discord-rpc-csharp) to access and use the Discord Rich Presence client.
