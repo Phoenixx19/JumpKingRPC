@@ -32,6 +32,8 @@ In order to use the program it is necessary to have installed and working:
 2. Install the mod using the installer.
 3. Profit.
 
+If you installed v2.0.0 or above and you are willing to update, please uninstall first before reinstalling.
+
 To uninstall you can use:
 - The same installer you used to install
 - Remove the program from the Control Panel and the old Jump King executable file will be back
