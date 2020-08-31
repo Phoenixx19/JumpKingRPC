@@ -13,8 +13,10 @@ JKRPC shows the in-game live data on your Discord status using Discord's Rich Pr
 - Jumps, falls, number of sessions, number of attempts
 - Time elapsed from the start of the attempt
 
+<div>
+</div>
 ![Status](https://github.com/Phoenixx19/JumpKingRPC/blob/master/Old%20RPC/Customizable/discord.gif)
-![Settings](https://github.com/Phoenixx19/JumpKingRPC/blob/master/Old%20RPC/Customizable/rpc.png)
+<img src="https://github.com/Phoenixx19/JumpKingRPC/blob/master/Old%20RPC/Customizable/rpc.png"  alt="Settings (v2.1.0)" style="width: 75%; height: 75%;"/>
 
 ## Table of contents
 1. [Dependencies](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#dependencies)
