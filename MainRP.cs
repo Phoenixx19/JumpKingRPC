@@ -45,7 +45,7 @@ namespace JumpKingRPC
 
 		public void ClearUpdate(bool toggle)
         {
-			if (toggle) { Update(); }
+			if (toggle) { Run(); }
 			else { this.client.ClearPresence(); }
         }
 
