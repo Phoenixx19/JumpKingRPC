@@ -7,13 +7,13 @@ using Microsoft.Xna.Framework;
 using JumpKing.GameManager;
 using JumpKing.SaveThread.SaveComponents;
 using JumpKing.SaveThread;
+using System.Configuration;
+
 namespace JumpKingRPC
 {
-	// Token: 0x02000002 RID: 2
 	public class MainRP
 	{
 		BodyValues bodyValues = new BodyValues(GameLoop.m_player);
-		// Token: 0x0400000B RID: 11
 		public DiscordRpcClient client;
 		public bool process = true;
 		public DateTime time1 = new DateTime();
@@ -41,6 +41,12 @@ namespace JumpKingRPC
 					preset = 1;
 					break;
             }
+        }
+
+		public void ClearUpdate(bool toggle)
+        {
+			if (toggle) { Update(); }
+			else { this.client.ClearPresence(); }
         }
 
 		public void Run()
