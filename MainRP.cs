@@ -8,24 +8,32 @@ using JumpKing.GameManager;
 using JumpKing.SaveThread.SaveComponents;
 using JumpKing.SaveThread;
 using System.Configuration;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Reflection;
 
 namespace JumpKingRPC
 {
 	public class MainRP
 	{
+        public String[] presets = new String[3] { 
+			"Babe+Location", 
+			"Location+Falls", 
+			"Session+Falls"
+		};
 		BodyValues bodyValues = new BodyValues(GameLoop.m_player);
 		public DiscordRpcClient client;
 		public bool process = true;
-		public DateTime time1 = new DateTime();
-		public DateTime time2 = new DateTime();
-		public TimeSpan pause = new TimeSpan();
-		public DateTime menuElapsed = new DateTime();
+		private DateTime time1 = new DateTime();
+		private DateTime time2 = new DateTime();
+		private TimeSpan pause = new TimeSpan();
+		private DateTime menuElapsed = new DateTime();
 		public int preset;
-		public string text;
-		public string image;
-		public string section;
-		public string smallimage;
-		public string smalltext;
+		private string text;
+		private string image;
+		private string section;
+		private string smallimage;
+		private string smalltext;
 
 		public MainRP(int _preset)
         {
