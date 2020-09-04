@@ -17,11 +17,11 @@ JKRPC shows the in-game live data on your Discord status using Discord's Rich Pr
 ![Settings](https://github.com/Phoenixx19/JumpKingRPC/blob/master/Old%20RPC/Customizable/rpc22.png)
 
 ## Table of contents
-1. [Dependencies](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#dependencies)
-2. [Setup & Instructions](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#setup--instructions)
-3. [About](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#about)
+1. [Dependencies](https://github.com/Phoenixx19/JumpKingRPC#dependencies)
+2. [Setup & Instructions](https://github.com/Phoenixx19/JumpKingRPC#setup--instructions)
+3. [About](https://github.com/Phoenixx19/JumpKingRPC#about)
 4. [Issues and Bugs](https://github.com/Phoenixx19/JumpKingRPC#issues)
-5. [License](https://github.com/Phoenixx19/JumpKingRPC/blob/master/README.md#license)
+5. [License](https://github.com/Phoenixx19/JumpKingRPC#license)
 
 ## Dependencies
 In order to use the program it is necessary to have installed and working:
