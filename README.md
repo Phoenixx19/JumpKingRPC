@@ -6,8 +6,7 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Phoenixx19/JumpKingRPC)
 ![File](https://img.shields.io/badge/file-.dll-blue)
 
-Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. <br>
-JKRPC shows the in-game live data on your Discord status using Discord's Rich Presence. JKRPC uses presets to show:
+Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. JKRPC shows the in-game live data on your Discord status using Discord's Rich Presence. JKRPC uses presets to show:
 - Location of the player
 - Story mode chosen
 - Jumps, falls, number of sessions, number of attempts
