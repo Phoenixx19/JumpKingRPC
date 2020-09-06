@@ -26,6 +26,7 @@ JKRPC shows the in-game live data on your Discord status using Discord's Rich Pr
 ## Dependencies
 In order to use the program it is necessary to have installed and working:
 - Jump King
+- .NET Framework 4.5
 
 ## Setup & Instructions
 1. Download the [**latest**](https://github.com/Phoenixx19/JumpKingRPC/releases/latest) release.
