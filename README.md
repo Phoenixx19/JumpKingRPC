@@ -33,6 +33,10 @@ In order to use the program it is necessary to have installed and working:
 2. Install the mod using the installer.
 3. Profit.
 
+### Source code
+For piracy reasons the Jump King modded executable cannot be published. Currently the instructions to build the modded version of the game are not available.
+If you'd like to edit the current mod or add a feature, you can either use **dnSpy** to edit the JumpKing.exe (at your own risk!) or ask us!
+
 ### Uninstalling (only v2.0.0 or above)
 If you installed v2.0.0 or above and you are willing to update, please uninstall first before reinstalling. <br>
 To uninstall you can use:
@@ -44,8 +48,6 @@ This mod is fully written in **C#**.
 <br>Using the [**discord-rpc-csharp**](https://github.com/Lachee/discord-rpc-csharp) to access and use the Discord Rich Presence client.
 This mod is based off the JumpKingTAS made by DevilSquirrel.
 
-#### The people behind the program. 😎
-
 |Name|Occupation|
 |:---:|:---|
 |[**Goose**](https://github.com/Babayagabyte) | Front-end helper |
@@ -55,7 +57,6 @@ This mod is based off the JumpKingTAS made by DevilSquirrel.
 If you have any questions or you found a bug you'd like to report, contact us with the links above or create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose). Older versions (such as **v1.1.0** and **v1.0.0** won't get any future fixes).
 
 ## License
-
 JumpKingRPC is not affiliated with Nexile AB or Discord Incorporate. All brands and trademarks belong to their respective owners. JumpKingRPC uses the MIT License that allows commercial and private use with modifications and redistributions. There are no warranties or liabilities.
 
 <br>*Have fun jumping!* :crown:
