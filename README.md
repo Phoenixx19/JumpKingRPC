@@ -12,7 +12,7 @@ Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. JKRP
 - Jumps, falls, number of sessions, number of attempts
 - Time elapsed from the start of the attempt
 
-<img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/discord.gif" style="float:left; margin-right:10px;" width="475" /><img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/rpc22.png" style="float:left; margin-right:10px;" width="475" />
+<img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/discord.gif" style="float:left; margin-right:10px;" width="400" /><img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/rpc22.png" style="float:left; margin-right:10px;" width="400" />
 
 ## Table of contents
 1. [**Dependencies**](#dependencies)
