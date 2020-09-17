@@ -36,6 +36,7 @@ In order to use the program it is necessary to have installed and working:
 ### Source code
 For piracy reasons the Jump King modded executable cannot be published. Currently the instructions to build the modded version of the game are not available.
 If you'd like to edit the current mod or add a feature, you can either use **dnSpy** to edit the JumpKing.exe (at your own risk!) or ask us!
+The source code of v1 is fully available under the `Old RPC` folder.
 
 ### Uninstalling (only v2.0.0 or above)
 If you installed v2.0.0 or above and you are willing to update, please uninstall first before reinstalling. <br>
