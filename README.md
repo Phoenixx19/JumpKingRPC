@@ -1,4 +1,4 @@
-# Jump King RPC – [Latest Release](https://github.com/Phoenixx19/JumpKingRPC/releases/latest)
+# Jump King RPC – [Latest Release](https://github.com/Phoenixx19/JumpKingRPC/releases/latest) <img src ="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/jklogo.png" width="80px" alt="jkrpc logo" align ="right">
 
 ![JumpKingRPC](https://img.shields.io/badge/Jump%20King-Discord%20RPC-red)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Phoenixx19/JumpKingRPC)
