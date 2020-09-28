@@ -44,7 +44,7 @@ To uninstall you can use:
 - The same installer you used to install
 - Remove the program from the Control Panel and the old Jump King executable file will be back
 
-## About
+## About ![GitHub top language](https://img.shields.io/github/languages/top/Phoenixx19/JumpKingRPC)
 This mod is fully written in **C#**.
 <br>Using the [**discord-rpc-csharp**](https://github.com/Lachee/discord-rpc-csharp) to access and use the Discord Rich Presence client.
 This mod is based off the JumpKingTAS made by DevilSquirrel.
@@ -54,8 +54,8 @@ This mod is based off the JumpKingTAS made by DevilSquirrel.
 |[**Goose**](https://github.com/Babayagabyte) | Front-end helper |
 |[**Phoenixx19**](https://github.com/Phoenixx19) | Front-end developer and mod creator |
 
-## Issues
-If you have any questions or you found a bug you'd like to report, contact us with the links above or create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose). Older versions (such as **v1.1.0** and **v1.0.0** won't get any future fixes).
+## Issues [![Discord](https://img.shields.io/discord/547420017738907657)](http://discord.gg/QhnERYV)
+If you have any questions or you found a bug you'd like to report, contact us with the links above, create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose) or click on the **chat** icon to join the official Jump King's Discord server. Older versions (such as **v1.1.0** and **v1.0.0** won't get any future fixes).
 
 ## License
 JumpKingRPC is not affiliated with Nexile AB or Discord Incorporate. All brands and trademarks belong to their respective owners. JumpKingRPC uses the MIT License that allows commercial and private use with modifications and redistributions. There are no warranties or liabilities.
