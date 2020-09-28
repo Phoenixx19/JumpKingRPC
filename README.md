@@ -57,7 +57,7 @@ This mod is based off the JumpKingTAS made by DevilSquirrel.
 ## Issues [![Discord](https://img.shields.io/discord/547420017738907657)](http://discord.gg/QhnERYV)
 If you have any questions or you found a bug you'd like to report, contact us with the links above, create a new issue [**here**](https://github.com/Phoenixx19/JumpKingRPC/issues/new/choose) or click on the **chat** icon to join the official Jump King's Discord server. Older versions (such as **v1.1.0** and **v1.0.0** won't get any future fixes).
 
-## License
+## License ![GitHub](https://img.shields.io/github/license/Phoenixx19/JumpKingRPC)
 JumpKingRPC is not affiliated with Nexile AB or Discord Incorporate. All brands and trademarks belong to their respective owners. JumpKingRPC uses the MIT License that allows commercial and private use with modifications and redistributions. There are no warranties or liabilities.
 
 <br>*Have fun jumping!* :crown:
