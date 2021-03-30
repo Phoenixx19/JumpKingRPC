@@ -14,15 +14,6 @@ Jump King RPC (or in short, JKRPC) is a Rich Presence client for Jump King. JKRP
 
 <img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/discord.gif" style="float:left; margin-right:10px;" width="400" />&ensp;<img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/rpc22.png" style="float:left; margin-right:10px;" width="400" />
 
-## Table of contents
-1. [**Dependencies**](#dependencies)
-2. [**Setup & Instructions**](#setup--instructions)
-   * [Source code](#source-code)
-   * [Uninstalling on v2.0.0 or above](#uninstalling-only-v200-or-above)
-3. [**About**](#about)
-4. [**Issues and Bugs**](#issues)
-5. [**License**](#license)
-
 ## Dependencies
 In order to use the program it is necessary to have installed and working:
 - Jump King
