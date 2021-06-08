@@ -1,3 +1,6 @@
+> ## Current state of development
+> It's been over six months since the **last significant update** on this repository. Since I probably won't update this repository anymore and continue the work on [<img src="https://raw.githubusercontent.com/Phoenixx19/JumpKingPlus/www/images/jkpluslogo.png" height="15"/> **JumpKingPlus**](https://github.com/Phoenixx19/JumpKingPlus), this repository is now **archived**. Everything here works still.
+
 # Jump King RPC – [Latest Release](https://github.com/Phoenixx19/JumpKingRPC/releases/latest) <img src ="https://raw.githubusercontent.com/Phoenixx19/JumpKingRPC/master/Old%20RPC/Customizable/jklogo.png" width="80px" alt="jkrpc logo" align ="right">
 
 ![JumpKingRPC](https://img.shields.io/badge/Jump%20King-Discord%20RPC-red)
